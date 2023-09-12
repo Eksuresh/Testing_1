@@ -1,0 +1,99 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 1948.3000000000002,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "Current Projects",
+          "nodeLineageTag": "c0dc8a76-ceab-49d7-9ed4-75b9417c893c",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 415.9,
+            "y": 74
+          },
+          "nodeIndex": "Monthly Cost",
+          "nodeLineageTag": "a3da343c-2538-49a7-96d7-5f455b904157",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 831.7,
+            "y": 0
+          },
+          "nodeIndex": "Offshore",
+          "nodeLineageTag": "acd1a8d0-3587-4d3f-b909-e922afbfaf9d",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1247.6,
+            "y": 269.6
+          },
+          "nodeIndex": "Onsite",
+          "nodeLineageTag": "ee1002c7-a8b9-4d39-b212-fb5c7ecf06b0",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2059.6,
+            "y": 0
+          },
+          "nodeIndex": "Measure Table",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2465.3,
+            "y": 0
+          },
+          "nodeIndex": "Project Details",
+          "nodeLineageTag": "04cb1f35-a284-4835-a848-2d129c45b32c",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
